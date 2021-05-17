@@ -1,0 +1,88 @@
+{
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/devtools-api/lib/esm/env.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/devtools-api/lib/esm/const.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/devtools-api/lib/esm/api/api.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/devtools-api/lib/esm/api/app.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/devtools-api/lib/esm/api/component.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/devtools-api/lib/esm/api/context.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/devtools-api/lib/esm/api/hooks.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/devtools-api/lib/esm/api/util.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/devtools-api/lib/esm/api/index.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/@vue/devtools-api/lib/esm/index.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/node_modules/vue-router/dist/vue-router.esm-bundler.js": [
+    "/assets/vendor.93f284d9.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/src/pages/About.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/assets/About.f259e896.js",
+    "/assets/About.41cb2065.css"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/src/pages/About.vue": [
+    "/assets/About.f259e896.js",
+    "/assets/About.41cb2065.css"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/src/assets/logo.png": [
+    "/assets/Home.da5f3cb9.js",
+    "/assets/Home.58421b16.css"
+  ],
+  "@foo": [
+    "/assets/Home.da5f3cb9.js",
+    "/assets/Home.58421b16.css"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/src/pages/Home.vue?vue&type=style&index=0&scoped=true&lang.css": [
+    "/assets/Home.da5f3cb9.js",
+    "/assets/Home.58421b16.css"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/src/pages/Home.vue": [
+    "/assets/Home.da5f3cb9.js",
+    "/assets/Home.58421b16.css"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/src/components/ImportType.vue?vue&type=script&setup=true&lang.ts": [
+    "/assets/ImportType.550bb33b.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/src/components/ImportType.vue": [
+    "/assets/ImportType.550bb33b.js"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/src/components/foo.css": [
+    "/assets/Foo.2fe8c7a5.js",
+    "/assets/Foo.a8752494.css"
+  ],
+  "/opt/workspace/ocm-tailor/fragments/ssr-vue/src/components/Foo.jsx": [
+    "/assets/Foo.2fe8c7a5.js",
+    "/assets/Foo.a8752494.css"
+  ]
+}
