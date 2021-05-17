@@ -1,5 +1,6 @@
 // @ts-check
 const fs = require('fs')
+const cors = require('cors')
 const path = require('path')
 const express = require('express')
 
@@ -21,6 +22,12 @@ async function createServer(
     : {}
 
   const app = express()
+
+  const corsOptions = {
+    origin: '*'
+  }
+
+  app.use(cors(corsOptions));
 
   /**
    * @type {import('vite').ViteDevServer}
