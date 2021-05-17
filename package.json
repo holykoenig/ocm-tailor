@@ -1,0 +1,15 @@
+{
+  "name": "tailor",
+  "version": "1.0.0",
+  "description": "ocm tailor",
+  "main": "tailor.js",
+  "dependencies": {
+    "node-tailor": "^3.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ocm",
+  "license": "ISC"
+}
